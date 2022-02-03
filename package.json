@@ -1,0 +1,10 @@
+{
+  "name": "kool-surf-api",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API",
+  "main": "index.js",
+  "repository": "https://github.com/Drinnn/kool-surf-api.git",
+  "author": "Drinnn <pedro_lontro@hotmail.com>",
+  "license": "ISC",
+  "private": false
+}
