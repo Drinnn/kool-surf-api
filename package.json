@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Typescript Node.js API",
   "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "yarn build && node dist/src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": "https://github.com/Drinnn/kool-surf-api.git",
   "author": "Drinnn <pedro_lontro@hotmail.com>",
   "license": "ISC",
