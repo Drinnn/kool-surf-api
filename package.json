@@ -12,6 +12,7 @@
     "style:check": "prettier --check 'src/**/*.ts' 'test/**/*.ts'",
     "style:fix": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "test:unit": "jest",
     "test:functional": "jest --projects ./test --runInBand"
   },
   "repository": "https://github.com/Drinnn/kool-surf-api.git",
